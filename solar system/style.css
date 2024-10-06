@@ -1,0 +1,42 @@
+.The_Solar_System{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 700px;
+    width: 100vw;
+    background-color: white;
+    padding-top: 90px;
+    
+}
+.Solar_text{
+    height: 500px;
+    width: 600px;
+    font-size: 30px;
+    margin-top: -100px;
+}
+.Solar_text h1{
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    
+}
+.Solar_text p{
+    font-size: 30px;
+}
+.Solar_imag{
+    height: 500px;
+    width: 50%;
+    background-image: url(https://t3.ftcdn.net/jpg/06/49/70/96/360_F_649709652_Wm6VPvtaZ45vJ25ssFpxpSX2Ew9lf8PX.jpg);
+    background-size: cover;
+    margin-right: -100px;
+    margin-top: 10%;
+}
+.SolarSystem_button{
+    margin-top: 30px;
+    height: 50px;
+    width: 170px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 30px;
+    cursor: pointer;
+}
